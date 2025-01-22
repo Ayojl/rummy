@@ -1,20 +1,3 @@
-Rummy
-=====
-
-A command line version of the card game Rummy with competitive Computer Agent written in C++.
-
-# Preface #
-Rummy is my Grandma's favorite card game to play.
-However, it takes at least two to play Rummy.
-Since my Grandpa passed, she has not been playing very much Rummy.
-
-Last Summer, I wrote this game in my spare time.
-The game has a computer agent, so a player can play it alone.
-I would argue that the agent is competitive.
-Although I have won games here and there, I have never won a best of 7 series.
-
-On 4th Of July, I showed the game to Grandma.
-She was able to bring out a few bugs in the game which I have since fixed.
 
 In the rest of this document, I will explain:
 * The rules of rummy and how Grandma's rules and my game's rules differ.
@@ -77,26 +60,4 @@ When a player goes out, the other players add up the value of all the cards stil
 
 The game continues with further deals until a player reaches the points target that was decided before the game began, or until the agreed number of deals has been played.
 
-## Variations in my Version ##
 
-### Grandma's Rules ###
-
-### Additional Notes ###
-
-# Game Flow #
-
-## Initial Set Up ##
-
-## User Turn ##
-
-## Agent Turn ##
-
-# Implementation #
-
-## C++ ##
-
-## Computer Agent AI ##
-
-### Determine Best Hand ###
-
-### Drop Worst Card ###
